@@ -1,4 +1,5 @@
 # Formatter
+This repository only created as an answer to G-able discovery 2020 event's questionnaire
 ## Build
 Feel free to use existing executable for windows and linux in ./dist folder. However, if you have golan installed, you can build your own executable with command below.
 ```
